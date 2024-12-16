@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 toc: true
 ---
-I am currently a Lecturer (Assistant Professor) in the Department of Computer Science, the School of Natural and Computing Sciences, University of Aberdeen, UK. Before this, I received a PhD degree in Robotics & Artificial Intelligence from Imperial College London in 2023, working in the Morph Lab with Prof.Thrishantha Nanayakkara and Prof.Peter Childs FREng.
+I am currently a Lecturer (Assistant Professor) in the Department of Computer Science, the School of Natural and Computing Sciences, University of Aberdeen, UK. Before this, I received a PhD degree in Robotics & Artificial Intelligence from the Dyson School of Design Engineering at Imperial College London in 2023, working in the Morph Lab with Prof.Thrishantha Nanayakkara and Prof.Peter Childs FREng.
 
-Before I joined the University of Aberdeen, I worked as a Postdoctoral Research Fellow at Imperial College London, working with Prof. Ravi Vaidyanathan in the Biomechatronics Lab.
+Before I joined the University of Aberdeen, I worked as a Postdoctoral Research Fellow in the Department of Mechanical Engineering at Imperial College London, working with Prof. Ravi Vaidyanathan in the Biomechatronics Lab.
 
-The global rapid rise in ageing populations, coupled with the challenges of the pandemic and a shortage of medical instruments, has highlighted the urgent need for advanced bioelectronic devices that support decentralized and personalized healthcare.  
-These devices include wearable healthcare technologies, minimally invasive biosensors, human implantable electrodes, closed-loop smart sensing systems, and brain-inspired soft hardware. 
-To strengthen its global leadership and ensure continued competitiveness in biomechatronics, the aim of our research group is to develop a hybrid intelligent robotics and  wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization. My research interests include
+The aim of our research group is to develop a hybrid intelligent robotics and  wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization. My research interests include:
 * Conducting fundamental research to develop soft, wearable, and implantable bioelectronic sensors, e-skins, and soft robotics
 * Developing advanced neuromorphic computation bioelectronic systems for robotic AI-enabled Healthcare
 * Embedded AI and robotics perception and navigation in human-centric digital healthcare
