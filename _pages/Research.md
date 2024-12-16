@@ -16,8 +16,8 @@ To strengthen its global leadership and ensure continued competitiveness in biom
 # Conducting fundamental research to develop soft, wearable, and implantable bioelectronic sensors, e-skins, and soft robotics
 
 
-# Developing advanced neuromorphic computation bioelectronic systems for robotic brains and bodies   
-
+# Developing advanced neuromorphic computation bioelectronic systems for robotic AI-enabled Healthcare
+   
 
 # Embedded AI and robotics perception and navigation in human-centric digital healthcare
 
