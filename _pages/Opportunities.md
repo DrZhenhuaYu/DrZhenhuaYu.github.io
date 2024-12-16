@@ -17,8 +17,7 @@ We are accepting PhD applications all year round.
 English language test certificate (minimum IELTS 6.5 overall with a minimum of 6.0 in each skill or other equivalent English qualifications).
 
 ## China Scholarship Council for Chinese PhD applicants 
-University of Aberdeen will waive the international tuition fees and the CSC will provide the living allowance.
-CSC applications for the 2024-2025 entry are currently closed. 
+University of Aberdeen will waive the international tuition fees and the CSC will provide the living allowance. 
 The application will open every year around October. Please note this is a two-step application. 
 * Step 1: You should first submit a full application (in English) to the University of Aberdeen. You have to get an unconditional offer before you place a CSC application to University of Aberdeen. The deadline for this step is usually in the early or middle of January. 
 * Step 2: If you are successful at step 1, you will then submit another full application (in Chinese) to the CSC in China. The deadline is usually in the middle of March. The result is usually announced in May.
