@@ -17,7 +17,7 @@ Please [email me](mailto:zhenhua.yu@abdn.ac.uk) if you require a copy of the pap
 <!-- # Preprint -->
 
 # 2024
-[1].Thrishantha Nanayakkara, Barry Mulvey, Shehara Perera, Yukun Ge,  <strong>Zhenhua Yu <strong>, Parvathi Sunilkumar, “Soft Robots as a Platform to Understand Embodied Intelligence”, Handbook on Soft Robotics, 2024.
+[1].Thrishantha Nanayakkara, Barry Mulvey, Shehara Perera, Yukun Ge,  <strong>Zhenhua Yu </strong>, Parvathi Sunilkumar, “Soft Robots as a Platform to Understand Embodied Intelligence”, Handbook on Soft Robotics, 2024.
 <li>[2]. Lukas Cha, Annika Guez, Chih-Yu Chen, Sion Kim, **Zhenhua Yu **, Bo Xiao, Ravi Vaidyanathan, “Transparency Control of a 1-DoF Knee Exoskeleton via Human-in-the-Loop Velocity Optimisation”, 2024 IEEE International Conference on Robotics and Automation (ICRA), 2023.
 <li>3. D. F. Gomes, P. Paoletti and **S. Luo**, “Beyond Flat GelSight Sensors: Simulation of Optical Tactile Sensors of Complex Morphologies for Sim2Real Learning”, Robotics: Science and Systems (RSS), 2023.
 4. X. Jing, K. Qian, T. Jianu and **S. Luo**, “Unsupervised Adversarial Domain Adaptation for Sim-to-Real Transfer of Tactile Images”, IEEE Transactions on Measurement and Instrumentation, 2023.
