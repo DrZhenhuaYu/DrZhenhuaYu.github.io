@@ -18,15 +18,11 @@ Please [email me](mailto:zhenhua.yu@abdn.ac.uk) if you require a copy of the pap
 
 # 2024
 [1].Thrishantha Nanayakkara, Barry Mulvey, Shehara Perera, Yukun Ge,  <strong>Zhenhua Yu </strong>, Parvathi Sunilkumar, “Soft Robots as a Platform to Understand Embodied Intelligence”, Handbook on Soft Robotics, 2024.
-<li>[2]. Lukas Cha, Annika Guez, Chih-Yu Chen, Sion Kim, **Zhenhua Yu **, Bo Xiao, Ravi Vaidyanathan, “Transparency Control of a 1-DoF Knee Exoskeleton via Human-in-the-Loop Velocity Optimisation”, 2024 IEEE International Conference on Robotics and Automation (ICRA), 2023.
-<li>3. D. F. Gomes, P. Paoletti and **S. Luo**, “Beyond Flat GelSight Sensors: Simulation of Optical Tactile Sensors of Complex Morphologies for Sim2Real Learning”, Robotics: Science and Systems (RSS), 2023.
-4. X. Jing, K. Qian, T. Jianu and **S. Luo**, “Unsupervised Adversarial Domain Adaptation for Sim-to-Real Transfer of Tactile Images”, IEEE Transactions on Measurement and Instrumentation, 2023.
-5. G. Cao, J. Jiang, C. Lu, D. F. Gomes and **S. Luo**, “TouchRoller: A Rolling Optical Tactile Sensor for Rapid Assessment of Large Surfaces”, Sensors, 2023.
-6. M Li, J Wang, S Yang, J Xie, G Xu, **S. Luo**, “A CNN-LSTM Model for Six Human Ankle Movements Classification on Different Loads”, Frontiers in Human Neuroscience, 17(82), 2023.
-7. G. Cao, J. Jiang, N. Mao, D. Bollegala, M. Li, **S. Luo**, “Vis2Hap: Vision-based Haptic Rendering by Cross-modal Generation”, IEEE International Conference on Robotics and Automation (ICRA), 2023.
-8. J. Yu, H. Oh, S. Fichera, P. Paoletti, and **S. Luo**, “Multi-source Domain Adaptation for Unsupervised Road Defect Segmentation”, IEEE International Conference on Robotics and Automation (ICRA), 2023.
-9. Z. Chen, S. Zhang, **S. Luo**, F. Sun, and B. Fang, “Tacchi: A Pluggable and Low Computational Cost Elastomer Deformation Simulator for Optical Tactile Sensors”, IEEE Robotics and Automation Letters, 2023.
-10. Z. Xiao, C. Liu, **S. Luo**, K. Huang, H. Gao, X. Xu, X. Wang, “A collaborative and dynamic multi-source single-destination navigation algorithm for smart cities”, Sustainable Energy Technologies and Assessments, 2023.
-
+[2]. Lukas Cha, Annika Guez, Chih-Yu Chen, Sion Kim, <strong>Zhenhua Yu </strong>, Bo Xiao, Ravi Vaidyanathan, “Transparency Control of a 1-DoF Knee Exoskeleton via Human-in-the-Loop Velocity Optimisation”, 2024 IEEE International Conference on Robotics and Automation (ICRA), 2024.
+[3]. <strong>Zhenhua Yu </strong>, Peter RN Childs, Yukun Ge, Thrishantha Nanayakkara, “Whisker Sensor for Robot Environments Perception: A Review”, IEEE Sensors Journal, 2024.
+[4].Bo Xiao, Hak-Keung Lam, Lichao Sun, Shihong Chen,<strong>Zhenhua Yu </strong>, Tieshan Li, Zhaohui Zhu, Eric M Yeatman, “Stabilization of Interval Type-2 Polynomial Fuzzy Networked Control Systems under Cyber-Attacks”, IEEE Transactions on Industrial Cyber-Physical Systems, 2024.
+[5]. Shibo Jing, Hsien-Yung Huang, Melanie Jouaiti, Yongkun Zhao, <strong>Zhenhua Yu </strong>, Ravi Vaidyanathan, Dario Farina, “Enhancing the Prediction of Locomotion Transition with High-Density Surface Electromyography”, IEEE Journal of Biomedical and Health Informatics, 2024.
+[6]. <strong>Zhenhua Yu </strong>, Yalou Han, Lukas Cha, Shihong Chen, Zeyu Wang, Yang Zhang, Thrishantha Nanayakkara, “Design of an intelligent wearable device for real-time cattle health monitoring”, Frontiers in Robotics and AI, 2024.
+[6]. Sohini Patel, Alexandra E Conway, Tricia Adjei, Isabella Abati, Saksham Dhawan, <strong>Zhenhua Yu </strong>, Ravi Vaidyanathan, Christoph Lees, “Is it possible to monitor fetal movements with a wearable device? A review of novel technologies”, Elsevier, European Journal of Obstetrics & Gynecology and Reproductive Biology, 2024.
 # Previous to 2018
 
