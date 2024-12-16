@@ -21,7 +21,7 @@ Please [email me](mailto:zhenhua.yu@abdn.ac.uk) if you require a copy of the pap
 
 [6]. Lukas Cha, Annika Guez, Chih-Yu Chen, Sion Kim, <strong>Zhenhua Yu </strong>, Bo Xiao, Ravi Vaidyanathan, “Transparency Control of a 1-DoF Knee Exoskeleton via Human-in-the-Loop Velocity Optimisation”, 2024 IEEE International Conference on Robotics and Automation (ICRA), 2024.
 
-[5]. <strong>Zhenhua Yu </strong>, Peter RN Childs, Yukun Ge, Thrishantha Nanayakkara, “Whisker Sensor for Robot Environments Perception: A Review”, IEEE Sensors Journal, 2024.
+[5]. <strong>Zhenhua Yu *</strong>, Peter RN Childs, Yukun Ge, Thrishantha Nanayakkara, “Whisker Sensor for Robot Environments Perception: A Review”, IEEE Sensors Journal, 2024.
 
 [4].Bo Xiao, Hak-Keung Lam, Lichao Sun, Shihong Chen,<strong>Zhenhua Yu </strong>, Tieshan Li, Zhaohui Zhu, Eric M Yeatman, “Stabilization of Interval Type-2 Polynomial Fuzzy Networked Control Systems under Cyber-Attacks”, IEEE Transactions on Industrial Cyber-Physical Systems, 2024.
 
@@ -33,9 +33,9 @@ Please [email me](mailto:zhenhua.yu@abdn.ac.uk) if you require a copy of the pap
 # 2023
 [3].Bo Xiao, Wuzhou Hong, Ziwei Wang, Frank Po Wen Lo, Zeyu Wang, <strong>Zhenhua Yu </strong>, Shihong Chen, Zehao Liu, Ravi Vaidyanathan, Eric M Yeatman, “Learning-Based Inverse Kinematics Identification of the Tendon-Driven Robotic Manipulator for Minimally Invasive Surgery”, IEEE 49th Annual Conference of the IEEE Industrial Electronics Society, 2023.
 
-[2]. <strong>Zhenhua Yu </strong>, Peter R.N. Childs, Thrishantha Nanayakkara, “Towards the Neuromorphic Computing for Offroad Robot Environment Perception and Navigation”, 2023 IEEE Robotics: Science and Systems” (RSS), 2023.
+[2]. <strong>Zhenhua Yu* </strong>, Peter R.N. Childs, Thrishantha Nanayakkara, “Towards the Neuromorphic Computing for Offroad Robot Environment Perception and Navigation”, 2023 IEEE Robotics: Science and Systems” (RSS), 2023.
 
-[1]. <strong>Zhenhua Yu </strong>, SM Hadi Sadati, Shehara Perera, Helmut Hauser, Peter RN Childs, Thrishantha Nanayakkara, “Tapered whisker reservoir computing for real-time terrain identification-based navigation”, Nature Scientific Reports, 2023.
+[1]. <strong>Zhenhua Yu* </strong>, SM Hadi Sadati, Shehara Perera, Helmut Hauser, Peter RN Childs, Thrishantha Nanayakkara, “Tapered whisker reservoir computing for real-time terrain identification-based navigation”, Nature Scientific Reports, 2023.
 
 # 2022
 
