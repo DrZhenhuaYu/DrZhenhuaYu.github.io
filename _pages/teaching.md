@@ -3,6 +3,7 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+toc: true
 ---
 
 # 6CCE3ROS/7CCEMROB - Robotic Systems
