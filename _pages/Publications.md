@@ -17,9 +17,9 @@ Please [email me](mailto:zhenhua.yu@abdn.ac.uk) if you require a copy of the pap
 <!-- # Preprint -->
 
 # 2024
-1.Thrishantha Nanayakkara, Barry Mulvey, Shehara Perera, Yukun Ge,  **Zhenhua Yu **, Parvathi Sunilkumar, “Soft Robots as a Platform to Understand Embodied Intelligence”, Handbook on Soft Robotics, 2024.
-2. Lukas Cha, Annika Guez, Chih-Yu Chen, Sion Kim, **Zhenhua Yu **, Bo Xiao, Ravi Vaidyanathan, “Transparency Control of a 1-DoF Knee Exoskeleton via Human-in-the-Loop Velocity Optimisation”, 2024 IEEE International Conference on Robotics and Automation (ICRA), 2023.
-3. D. F. Gomes, P. Paoletti and **S. Luo**, “Beyond Flat GelSight Sensors: Simulation of Optical Tactile Sensors of Complex Morphologies for Sim2Real Learning”, Robotics: Science and Systems (RSS), 2023.
+<li>1.Thrishantha Nanayakkara, Barry Mulvey, Shehara Perera, Yukun Ge,  **Zhenhua Yu **, Parvathi Sunilkumar, “Soft Robots as a Platform to Understand Embodied Intelligence”, Handbook on Soft Robotics, 2024.
+<li>2. Lukas Cha, Annika Guez, Chih-Yu Chen, Sion Kim, **Zhenhua Yu **, Bo Xiao, Ravi Vaidyanathan, “Transparency Control of a 1-DoF Knee Exoskeleton via Human-in-the-Loop Velocity Optimisation”, 2024 IEEE International Conference on Robotics and Automation (ICRA), 2023.
+<li>3. D. F. Gomes, P. Paoletti and **S. Luo**, “Beyond Flat GelSight Sensors: Simulation of Optical Tactile Sensors of Complex Morphologies for Sim2Real Learning”, Robotics: Science and Systems (RSS), 2023.
 4. X. Jing, K. Qian, T. Jianu and **S. Luo**, “Unsupervised Adversarial Domain Adaptation for Sim-to-Real Transfer of Tactile Images”, IEEE Transactions on Measurement and Instrumentation, 2023.
 5. G. Cao, J. Jiang, C. Lu, D. F. Gomes and **S. Luo**, “TouchRoller: A Rolling Optical Tactile Sensor for Rapid Assessment of Large Surfaces”, Sensors, 2023.
 6. M Li, J Wang, S Yang, J Xie, G Xu, **S. Luo**, “A CNN-LSTM Model for Six Human Ankle Movements Classification on Different Loads”, Frontiers in Human Neuroscience, 17(82), 2023.
