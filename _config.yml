@@ -22,13 +22,13 @@ repository               : "drzhenhuayu/drzhenhuayu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhenhua Yu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "An enthusiastic robotics researcher at University of Aberdeen"
+  location         : "Aberdeen,UK"
+  employer         : "University of Aberdeen"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhenhua.yu@abdn.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
