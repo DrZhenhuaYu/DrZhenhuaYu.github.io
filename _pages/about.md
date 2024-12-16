@@ -17,8 +17,10 @@ My research interests include
 * Hybrid Intelligent robotics & autonomous systems
 * Embedded AI and human-robot interactions in Digital Healthcare
 I currently have funding to accept PhD applications, please feel free to reach out for discussions.
+
 ## Contact
 Email: zhenhua.yu@abdn.ac.uk  
+
 ## Openings
 * PhD studentships (home/international fees) available, contact me with a copy of your up-to-date CV if you are interested!
   
