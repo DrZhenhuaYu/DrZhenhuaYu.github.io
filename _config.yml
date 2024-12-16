@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                   : "Shan Luo"
+title                   : "Zhenhua Yu"
 title_separator          : "-"
-name                     : &name "Shan Luo"
+name                     : &name "Zhenhua Yu"
 description              : &description "An enthusiastic robotics researcher"
 url                      : https://shanluo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ShanLuo/shanluo.github.io"
+repository               : "DrZhenhuaYu/drzhenhuayu.github.io.io" 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ google_analytics: UA-138327029-1
 
 # Site Author
 author:
-  name             : "Shan Luo"
+  name             : "Zhenhua Yu"
   avatar           : "profile.png"
   bio              : "An enthusiastic robotics researcher at King's College London"
   location         : "London, UK"
