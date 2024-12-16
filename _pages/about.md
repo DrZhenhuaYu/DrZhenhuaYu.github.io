@@ -33,5 +33,6 @@ Please email me with a copy of your CV if you are interested in the above opport
 ## [News](/news/)
 * Nov 2024: Started my new position as a Lecturer (Assistant Professor) in the Department of Computer Science, at the University of Aberdeen.
 * March 2023: Started my new position as a Postdoctoral Research Fellow in the Department of Mechanical Engineering at Imperial College London.
-* March 2019: Started my PhD research in Robotics & Artificial Intelligence in the Dyson School of Design Engineering at Imperial College London, working in the Morph Lab with Prof.Thrishantha Nanayakkara and Prof.Peter Childs FREng..
+* March 2019: Started my PhD research in Robotics & Artificial Intelligence in the Dyson School of Design Engineering at Imperial College London, working in the Morph Lab with Prof.Thrishantha Nanayakkara and Prof.Peter Childs FREng.
+  
 Please visit [News](/news/) for all the news.
