@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "People"
-permalink: /people/
+title: "Labmembers"
+permalink: /Labmembers/
 author_profile: true
 toc: true
 ---
