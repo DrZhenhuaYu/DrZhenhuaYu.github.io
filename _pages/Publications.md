@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /Publications/
 author_profile: true
 toc: true
+
 ---
 My citation profile can be found in [Google Scholar](https://scholar.google.co.uk/citations?user=ArnkrbwAAAAJ&hl=en).
 
