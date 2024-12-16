@@ -6,17 +6,17 @@ author_profile: true
 toc: true
 ---
 
-# 6CCE3ROS/7CCEMROB - Robotic Systems
-* UGT (Level Three)/PGT
-* King's College London
-* Semester 2, 2022 - present
+# JC1503: Object-Oriented Programming
+* UGT (Level One)/PGT
+* University of Aberdeen
+* Semester 2, 2024 - present
 
-# COMP338 - Computer Vision 
+# ME3-HECM - Embedded C for Microcontrollers
 * UGT (Level Three)
-* University of Liverpool
-* Semester 1, 2020 - 2021 
+* Department of Mechanical Engineering, Imperial College London,
+* Semester 2, 2023 - 2024 
 
-# COMP532 - Machine Learning
-* PGT 
-* University of Liverpool.
-* Semester 2, 2018 - 2021 
+# Gizmo: Physical Computing Robotics Design
+* UGT (Level Two) 
+* Dyson School of Design Engineering, Imperial College London
+* Semester 2, 2010 - 2022 
