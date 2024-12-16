@@ -4,10 +4,12 @@ title: "FundingAwards"
 permalink: /FundingAwards/
 author_profile: true
 ---
+# Ongoing Projects
 
-# Exchange/Travel Grants
-* Principal Investigator, Royal Society International Exchanges 2020 Cost Share (NSFC), with Shandong University, £11.46k
-* Co-Investigator, Royal Society International Exchanges Scheme, with Istituto Italiano di Tecnologia (IIT), £12k
+# Completed Projects
+* Co-Investigator, Wearable Urine Volume Measuring Device Designed for Non-Invasive and Easy-Access Bladder Function
+Monitoring, funded by Dame Julia Higgins Engineering Postdoc Collaborative Research Fund
+* Co-Investigator, An open-source testing kit for emulating the neural processing of tactile stimuli, funded by Dame Julia Higgins Engineering Postdoc Collaborative Research Fund
 
 # Awards
 * Robotics: Science and Systems (RSS) Pioneers 2023, the 30-strong cohort of the world’s top early-career researchers in robotics, 2023
