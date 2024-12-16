@@ -24,5 +24,6 @@ Please [email me](mailto:zhenhua.yu@abdn.ac.uk) if you require a copy of the pap
 [5]. Shibo Jing, Hsien-Yung Huang, Melanie Jouaiti, Yongkun Zhao, <strong>Zhenhua Yu </strong>, Ravi Vaidyanathan, Dario Farina, “Enhancing the Prediction of Locomotion Transition with High-Density Surface Electromyography”, IEEE Journal of Biomedical and Health Informatics, 2024.
 [6]. <strong>Zhenhua Yu </strong>, Yalou Han, Lukas Cha, Shihong Chen, Zeyu Wang, Yang Zhang, Thrishantha Nanayakkara, “Design of an intelligent wearable device for real-time cattle health monitoring”, Frontiers in Robotics and AI, 2024.
 [6]. Sohini Patel, Alexandra E Conway, Tricia Adjei, Isabella Abati, Saksham Dhawan, <strong>Zhenhua Yu </strong>, Ravi Vaidyanathan, Christoph Lees, “Is it possible to monitor fetal movements with a wearable device? A review of novel technologies”, Elsevier, European Journal of Obstetrics & Gynecology and Reproductive Biology, 2024.
-# Previous to 2018
 
+# Previous to 2018
+[1].Ding Zhou, <strong>Zhenhua Yu </strong>, Yanquan Zhang, Shunli Li,  <strong>Zhenhua Yu </strong>, Parvathi Sunilkumar, “Rapidly Sampling-Based Trajectory Planning for Spacecraft Proximity”, IEEE 2018 9th International Conference on Mechanical and Aerospace Engineering (ICMAE), 2018.
