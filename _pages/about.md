@@ -12,12 +12,14 @@ I am currently a Lecturer (Assistant Professor) in the Department of Computer Sc
 
 Before I joined the University of Aberdeen, I worked as a Postdoctoral Research Fellow at Imperial College London, working with Prof. Ravi Vaidyanathan in the Biomechatronics Lab.
 
-My research interests include
-* Biomechatronics, wearable biosensors to bridge the gap between engineering and healthcare
-* Hybrid Intelligent robotics & autonomous systems
-* Embedded AI and human-robot interactions in Digital Healthcare
-I currently have funding to accept PhD applications, please feel free to reach out for discussions.
+The global rapid rise in ageing populations, coupled with the challenges of the pandemic and a shortage of medical instruments, has highlighted the urgent need for advanced bioelectronic devices that support decentralized and personalized healthcare.  
+These devices include wearable healthcare technologies, minimally invasive biosensors, human implantable electrodes, closed-loop smart sensing systems, and brain-inspired soft hardware. 
+To strengthen its global leadership and ensure continued competitiveness in biomechatronics, the aim of our research group is to develop a hybrid intelligent robotics and  wearable device system that can interact with the physical world safely and robustly. We hope to prototype novel AI-enabled healthcare robotics systems for teaching, education, collaboration and ultimately, commercialization. My research interests include
+* Conducting fundamental research to develop soft, wearable, and implantable bioelectronic sensors, e-skins, and soft robotics
+* Developing advanced neuromorphic computation bioelectronic systems for robotic AI-enabled Healthcare
+* Embedded AI and robotics perception and navigation in human-centric digital healthcare
 
+I currently have funding to accept PhD applications, please feel free to reach out for discussions.
 ## Contact
 Email: zhenhua.yu@abdn.ac.uk  
 
