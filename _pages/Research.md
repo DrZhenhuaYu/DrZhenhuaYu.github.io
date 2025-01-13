@@ -12,7 +12,6 @@ To strengthen its global leadership and ensure continued competitiveness in biom
 
 {% include toc %}
 
-
 # Conducting fundamental research to develop soft, wearable, and implantable bioelectronic sensors, e-skins, and soft robotics
 
 
