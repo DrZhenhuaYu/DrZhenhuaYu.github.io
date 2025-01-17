@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 toc: true
 ---
-I am currently a Lecturer (Assistant Professor) in the Department of Computer Science, the School of Natural and Computing Sciences, University of Aberdeen, UK. Before this, I received a PhD degree in Robotics & Artificial Intelligence from the Dyson School of Design Engineering at Imperial College London in 2023, working in the Morph Lab with Prof.Thrishantha Nanayakkara and Prof.Peter Childs FREng.
+I am currently an Assistant Professor (Lecturer) in the Department of Computer Science, the School of Natural and Computing Sciences, University of Aberdeen, UK. I'm also an honorary Lecturer in the Medical Engineering, Department of Mechanical Engineering, Imperial College London.
+Before this, I received a PhD degree in Robotics & Artificial Intelligence from the Dyson School of Design Engineering at Imperial College London in 2023, working in the Morph Lab with Prof.Thrishantha Nanayakkara and Prof.Peter Childs FREng.
 
 Before I joined the University of Aberdeen, I worked as a Postdoctoral Research Fellow in the Department of Mechanical Engineering at Imperial College London, working with Prof. Ravi Vaidyanathan in the Biomechatronics Lab.
 
@@ -31,6 +32,7 @@ Email: zhenhua.yu@abdn.ac.uk
 Please email me with a copy of your CV if you are interested in the above opportunities. Visit [Opportunities](/opportunities/) for all the opportunities.
 
 ## [News](/news/)
+* Dec 2024: I'm awarded Honorary Lecturer in the Medical Engineering, Department of Mechanical Engineering, Imperial College London. The association is offered in recognition of my valuable contribution to the Department of Mechanical Engineering.
 * Nov 2024: Started my new position as a Lecturer (Assistant Professor) in the Department of Computer Science, at the University of Aberdeen.
 * March 2023: Started my new position as a Postdoctoral Research Fellow in the Department of Mechanical Engineering at Imperial College London.
 * March 2019: Started my PhD research in Robotics & Artificial Intelligence in the Dyson School of Design Engineering at Imperial College London, working in the Morph Lab with Prof.Thrishantha Nanayakkara and Prof.Peter Childs FREng.
